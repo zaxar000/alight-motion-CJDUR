@@ -18,7 +18,13 @@ obj= {
 
           "RemoveWatermark",
 
+          "MemberEffects",
 
+          "ProjectPackageSharing",
+
+          "FutureMemberFeatures",
+
+          "AdvancedEasing"
 
         ],
 
@@ -28,11 +34,11 @@ obj= {
 
         "autoRenewing": true,
 
-        "orderNumber": "Alight Motion удаление водяного знака для unknown (Не полная подписка)",
+        "orderNumber": "подписка от тгк badchoising",
 
         "productId": "com.alightcreative.motion.sub.yearly",
 
-        "period": "100y",
+        "period": "9999999y",
 
         "label": null,
 
